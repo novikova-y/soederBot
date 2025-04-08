@@ -36,8 +36,5 @@ if __name__ == '__main__':
 
     print("Bot gestartet!")
 
-    # Get the port from environment variable or use default (8080)
-    port = int(os.getenv('PORT', 8080))
-
-    # Use long polling to get updates and listen on the specified port
-    app.run_polling(allowed_updates=Update.ALL_TYPES, listen="0.0.0.0", port=port)
+    # Use long polling to get updates
+    app.run_polling()
