@@ -10,7 +10,7 @@ load_dotenv()
 # Get token from the env
 TOKEN = os.getenv('TELEGRAM_TOKEN')
 
-WEBHOOK_URL = "https://your-app-name.onrender.com"  # Укажи свой URL
+WEBHOOK_URL = "https://soderdaily.onrender.com" 
 
 QUOTES = [
     "„Bayern ist das bessere Deutschland.“",
