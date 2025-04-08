@@ -36,5 +36,5 @@ if __name__ == '__main__':
 
     print("Bot gestartet!")
 
-    # Use long polling to get updates
-    app.run_polling()
+    # Start polling to listen for updates
+    app.run_polling(allowed_updates=Update.ALL_TYPES)
