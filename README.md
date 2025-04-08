@@ -5,7 +5,7 @@ After moving to Germany, I found myself discovering the local culture through hu
 
 This simple Telegram bot sends out a random Söder quote on command. Built just for fun, to celebrate *Stabilität* and the unique charm of Bavarian politics.
 
-�� Try it here: [@SoederMaggus_bot](https://t.me/SoederMaggus_bot)
+👀 Try it here: [@SoederMaggus_bot](https://t.me/SoederMaggus_bot)
 
 ## Features
 
