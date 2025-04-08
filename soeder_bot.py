@@ -1,14 +1,16 @@
-import os
-from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import random
+import os
 
 # load variables from the .env file
+from dotenv import load_dotenv
 load_dotenv()
 
 # Get token from the env
 TOKEN = os.getenv('TELEGRAM_TOKEN')
+
+WEBHOOK_URL = "https://your-app-name.onrender.com"  # Укажи свой URL
 
 QUOTES = [
     "„Bayern ist das bessere Deutschland.“",
@@ -30,11 +32,14 @@ if __name__ == '__main__':
     # Initialize the bot with token
     app = ApplicationBuilder().token(TOKEN).build()
 
+    # Set the webhook to Render URL
+    app.bot.set_webhook(WEBHOOK_URL)
+
     # Add handlers for commands
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("quote", quote))
 
     print("Bot gestartet!")
 
-    # Start polling to listen for updates
-    app.run_polling(allowed_updates=Update.ALL_TYPES)
+    # Start webhook listener
+    app.run_webhook(listen="0.0.0.0", port=int(os.getenv('PORT', 8080)))
