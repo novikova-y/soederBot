@@ -1,4 +1,4 @@
-# SöderBot 🇩🇪✨
+# SöderDaily 🇩🇪✨
 
 Nothing fascinates me as much as memes.  
 After moving to Germany, I found myself discovering the local culture through humor — and naturally, that led me to Markus Söder.
