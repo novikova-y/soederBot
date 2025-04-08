@@ -10,8 +10,6 @@ load_dotenv()
 # Get token from the env
 TOKEN = os.getenv('TELEGRAM_TOKEN')
 
-WEBHOOK_URL = "https://soederdaily.onrender.com/"
-
 QUOTES = [
     "„Bayern ist das bessere Deutschland.“",
     "„Der Einfluss der Freien Wähler in Berlin ist genauso groß wie auf dem Mond.“",
@@ -32,14 +30,9 @@ if __name__ == '__main__':
     # Initialize the bot with token
     app = ApplicationBuilder().token(TOKEN).build()
 
-    # Set the webhook to Render URL
-    app.bot.set_webhook(WEBHOOK_URL)
-
     # Add handlers for commands
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("quote", quote))
 
     print("Bot gestartet!")
-
-    # Start webhook listener
-    app.run_webhook(listen="0.0.0.0", port=int(os.getenv('PORT', 8080)), url_path="")
+    app.run_polling()
