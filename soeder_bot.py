@@ -10,7 +10,7 @@ load_dotenv()
 # Get token from the env
 TOKEN = os.getenv('TELEGRAM_TOKEN')
 
-WEBHOOK_URL = "https://soderdaily.onrender.com"  # Обрати внимание, чтобы URL был правильный (HTTPS)
+WEBHOOK_URL = "https://soderdaily.onrender.com/webhook"
 
 QUOTES = [
     "„Bayern ist das bessere Deutschland.“",
@@ -42,4 +42,4 @@ if __name__ == '__main__':
     print("Bot gestartet!")
 
     # Start webhook listener
-    app.run_webhook(listen="0.0.0.0", port=int(os.getenv('PORT', 8080)), url_path="")
+    app.run_webhook(listen="0.0.0.0", port=int(os.getenv('PORT', 8080)), url_path="webhook")
