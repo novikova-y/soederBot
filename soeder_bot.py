@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from telegram import Update
+from telegram import Bot
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import random
 
@@ -9,6 +10,8 @@ load_dotenv()
 
 # Get token from the env
 TOKEN = os.getenv('TELEGRAM_TOKEN')
+
+WEBHOOK_URL = "https://soderdaily.onrender.com"  
 
 QUOTES = [
     "„Bayern ist das bessere Deutschland.“",
@@ -27,11 +30,16 @@ async def quote(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(random.choice(QUOTES) + "\n\n— Markus Söder")
 
 if __name__ == '__main__':
-    # Load token from .env file
+    # Initialize the bot with token
     app = ApplicationBuilder().token(TOKEN).build()
 
+    # Set the webhook to Render URL
+    app.bot.set_webhook(WEBHOOK_URL)
+
+    # Add handlers for commands
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("quote", quote))
 
     print("Bot gestartet!")
-    app.run_polling()
+
+    app.run_webhook(listen="0.0.0.0", port=int(os.getenv('PORT', 8080)))
