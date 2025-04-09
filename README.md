@@ -25,24 +25,6 @@ This simple Telegram bot sends out a random Söder quote on command. Built just 
 - [ ] Add daily quote scheduling  
 - [ ] Deploy to the cloud  
 
-## Currently working locally
-
-To run the bot locally:
-
-1. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. Replace `TOKEN` in `soeder_bot.py` with your own token from [BotFather](https://t.me/BotFather).
-
-3. Run:
-
-    ```bash
-    python soeder_bot.py
-    ```
-
 ---
 
 ✨ Just a small side project to practice, smile, and maybe share some *bayerischer Humor*.
