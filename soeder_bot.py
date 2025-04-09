@@ -9,6 +9,7 @@ load_dotenv()
 
 # Get token from the env
 TOKEN = os.getenv('TELEGRAM_TOKEN')
+PORT = os.getenv('PORT', 4000)
 
 QUOTES = [
     "„Bayern ist das bessere Deutschland.“",
@@ -35,4 +36,4 @@ if __name__ == '__main__':
     app.add_handler(CommandHandler("quote", quote))
 
     print("Bot gestartet!")
-    app.run_polling()
+    app.run_webhook(listen="0.0.0.0", port=PORT, url_path=TOKEN, webhook_url="https://soederdaily.onrender.com/" + TOKEN)
