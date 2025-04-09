@@ -17,13 +17,14 @@ This simple Telegram bot sends out a random Söder quote on command. Built just 
 - Python 3  
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)  
 - Token stored securely via environment variables (`.env` + `python-dotenv`)  
+- Hosted on [Render](https://render.com/) with `webhook` support  
 
 ## To-do
 
 - [ ] Add quote parser from online news  
 - [ ] Add funny Söder meme images  
 - [ ] Add daily quote scheduling  
-- [ ] Deploy to the cloud  
+- [x] Deploy to the cloud (done via Render ✅)
 
 ---
 
