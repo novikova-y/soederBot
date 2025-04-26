@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import random
 import os
-from quotes import QUOTES 
+from quotes import QUOTES
 
 # load variables from the .env file
 from dotenv import load_dotenv
