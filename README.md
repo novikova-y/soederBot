@@ -26,6 +26,10 @@ This simple Telegram bot sends out a random Söder quote on command. Built just 
 - [ ] Add daily quote scheduling  
 - [x] Deploy to the cloud (done via Render ✅)
 
+## Tests
+
+- Currently, tests are included (but without CI/CD setup for the moment).
+
 ---
 
 ✨ Just a small side project to practice, smile, and maybe share some *bayerischer Humor*.
