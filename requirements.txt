@@ -1,3 +1,5 @@
 python-dotenv==0.20.0
 python-telegram-bot==22.0
 python-telegram-bot[webhooks]
+pytest==7.3.1
+pytest-mock==3.9.0
