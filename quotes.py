@@ -9,4 +9,6 @@ QUOTES = [
     "„Weihnachten bemisst sich offenkundig dieses Jahr nicht in dem Wert von Konsum und Geschenken. Vielleicht sollten wir jetzt mal reflektieren, dass das tollste Geschenk Gesundheit und Gemeinsamkeit ist.“",
     "„Das ganze Leben ist ein großer Kompromiss, das fängt bei der Ehe an und endet in der Politik.“",
     "„Wir machen in Bayern grüne Politik, aber wir brauchen die Grünen nicht dazu.“",
+    "„Ehrfürchtig gedenke ich des Lebens und des Vermächtnisses von Mahatma Gandhi.“",
+    "„Wir wollen, dass München ein echtes Tennismekka, eine Tennishauptstadt wird.“"
 ]
