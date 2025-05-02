@@ -10,5 +10,7 @@ QUOTES = [
     "„Das ganze Leben ist ein großer Kompromiss, das fängt bei der Ehe an und endet in der Politik.“",
     "„Wir machen in Bayern grüne Politik, aber wir brauchen die Grünen nicht dazu.“",
     "„Ehrfürchtig gedenke ich des Lebens und des Vermächtnisses von Mahatma Gandhi.“",
-    "„Wir wollen, dass München ein echtes Tennismekka, eine Tennishauptstadt wird.“"
+    "„Wir wollen, dass München ein echtes Tennismekka, eine Tennishauptstadt wird.“",
+    "„Ich freue mich jetzt mal auf eine Schweinshaxe, bald wieder.“",
+    "„Jetzt gibt es wieder Leberkäs statt Tofu-Tümelei.“"
 ]
