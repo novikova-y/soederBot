@@ -12,5 +12,9 @@ QUOTES = [
     "„Ehrfürchtig gedenke ich des Lebens und des Vermächtnisses von Mahatma Gandhi.“",
     "„Wir wollen, dass München ein echtes Tennismekka, eine Tennishauptstadt wird.“",
     "„Ich freue mich jetzt mal auf eine Schweinshaxe, bald wieder.“",
-    "„Jetzt gibt es wieder Leberkäs statt Tofu-Tümelei.“"
+    "„Jetzt gibt es wieder Leberkäs statt Tofu-Tümelei.“",
+    "„Wir hatten mal Zeit zum Reden, aber auch zum Nachdenken.“",
+    "„Wir werden Deutschland nicht blamieren, im Gegenteil.“",
+    "„Ich möchte, dass man in Bayern gut leben kann.“",
+    "„Weil jeder blöde Krempel, den ich wissen will, den weiß ChatGPT.“"
 ]
