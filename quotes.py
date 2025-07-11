@@ -16,5 +16,11 @@ QUOTES = [
     "„Wir hatten mal Zeit zum Reden, aber auch zum Nachdenken.“",
     "„Wir werden Deutschland nicht blamieren, im Gegenteil.“",
     "„Ich möchte, dass man in Bayern gut leben kann.“",
-    "„Weil jeder blöde Krempel, den ich wissen will, den weiß ChatGPT.“"
+    "„Weil jeder blöde Krempel, den ich wissen will, den weiß ChatGPT.“",
+    "„Wir sind da so ein bisschen das Kalifornien von Deutschland.“",
+    "„München ist Surferparadies, und dieses Surfen passt zu Bayern dazu - leben und leben lassen.“",
+    "„Ich sehe ihn als einen James Dean von Bayern.“",
+    "„Das Kreuz gehört zu Bayern.“",
+    "„Wien ist näher bei München als Berlin.“"
+
 ]
