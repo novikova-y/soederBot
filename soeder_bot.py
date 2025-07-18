@@ -16,7 +16,7 @@ PORT = os.getenv('PORT', 4000)
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "Grüß Gott! 👋 Ich bin SöderDaily Bot.\n\n"
-        "Schick mir:\n"
+        "Hol dir:\n"
         "• /quote für eine stabile Weisheit\n"
         "• /gif für tägliches Södertainment"
     )
