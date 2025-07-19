@@ -21,6 +21,7 @@ QUOTES = [
     "„München ist Surferparadies, und dieses Surfen passt zu Bayern dazu - leben und leben lassen.“",
     "„Ich sehe ihn als einen James Dean von Bayern.“",
     "„Das Kreuz gehört zu Bayern.“",
-    "„Wien ist näher bei München als Berlin.“"
+    "„Wien ist näher bei München als Berlin.“",
+    "Natürlich gilt: Niemand ist gezwungen, Fleisch zu essen. Jeder darf essen, was er will. Aber für mich persönlich gilt: Ein gegrilltes Stück Schweinefleisch aus bayerischer Herkunft ist einfach unschlagbar."
 
 ]
