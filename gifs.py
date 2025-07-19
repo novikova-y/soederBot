@@ -8,5 +8,9 @@ GIFS = [
     "https://media.tenor.com/mGYgJSUuTnEAAAAM/markus-s%C3%B6der-s%C3%B6der.gif",
     "https://media.tenor.com/JAUmCYqN7ZAAAAAM/s%C3%B6der-markus-s%C3%B6der.gif",
     "https://media.tenor.com/YxsyOiIFxfUAAAAM/s%C3%B6der-klatschen.gif",
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpycWplNmhtemtoNjF0a2FiN2cxazNnb2x3aDZqZ2NleXFxeHMwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3s0PIJF2Ft4cDgc2Tu/giphy.gif"
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpycWplNmhtemtoNjF0a2FiN2cxazNnb2x3aDZqZ2NleXFxeHMwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3s0PIJF2Ft4cDgc2Tu/giphy.gif",
+    "https://media1.tenor.com/m/b6ydZjPmvNEAAAAd/s%C3%B6der-markus.gif",
+    "https://media1.tenor.com/m/olmmM98nouUAAAAd/s%C3%B6der-markus-s%C3%B6der.gif",
+    "https://media.tenor.com/vebssZ8NsNMAAAAM/politik-csu.gif",
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRvaGdvOHkxZjJkcmxnc3R1bGpjcmxldzlmMmV2YnZxMHA3bzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HUeqP70DXkl3CyQ/giphy.gif"
 ]
