@@ -26,8 +26,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Grüß Gott! 👋 Ich bin SöderDaily Bot.\n\n"
         "Hol dir:\n"
         "• /quote für eine stabile Weisheit\n"
-        "• /gif für tägliches Södertainment",
-        reply_markup=main_menu_keyboard()
+        "• /gif für tägliches Södertainment"
     )
 
 # Quote command handler
