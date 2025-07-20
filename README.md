@@ -9,7 +9,8 @@ This simple Telegram bot sends out a random Söder quote or gif on command. Buil
 
 ## Features
 
-- `/start` — greets the user  
+- `/start` — greets the user
+- `/help` — returns a short instruction
 - `/quote` — returns a random Markus Söder quote
 - `/gif` — returns a random Markus Söder gif
 

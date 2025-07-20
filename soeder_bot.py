@@ -29,6 +29,15 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "• /gif für tägliches Södertainment"
     )
 
+# Help command handler
+async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text(
+        "Grüß Gott! 👋 Ich bin SöderDaily Bot.\n\n"
+        "Hol dir:\n"
+        "• /quote für eine stabile Weisheit\n"
+        "• /gif für tägliches Södertainment"
+    )
+
 # Quote command handler
 async def quote(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = random.choice(QUOTES) + "\n\n— Markus Söder"
@@ -58,6 +67,7 @@ if __name__ == '__main__':
 
     # Add command handlers
     app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("help", help_command))
     app.add_handler(CommandHandler("quote", quote))
     app.add_handler(CommandHandler("gif", send_gif))
 
