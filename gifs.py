@@ -12,5 +12,8 @@ GIFS = [
     "https://media1.tenor.com/m/b6ydZjPmvNEAAAAd/s%C3%B6der-markus.gif",
     "https://media1.tenor.com/m/olmmM98nouUAAAAd/s%C3%B6der-markus-s%C3%B6der.gif",
     "https://media.tenor.com/vebssZ8NsNMAAAAM/politik-csu.gif",
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRvaGdvOHkxZjJkcmxnc3R1bGpjcmxldzlmMmV2YnZxMHA3bzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HUeqP70DXkl3CyQ/giphy.gif"
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRvaGdvOHkxZjJkcmxnc3R1bGpjcmxldzlmMmV2YnZxMHA3bzVtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HUeqP70DXkl3CyQ/giphy.gif",
+    "https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXN1eWVhdTd6OXI5cWRucWFxZnR6ZmJzZWZhYThtcTRzb3cwY3pkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGtq6PhsePqpMlO/giphy.gif",
+    "https://giphy.com/gifs/heute-show-speech-zdf-heuteshow-Q148Fi4MABpYxUoG6V",
+    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NqemdscDlmajFpcnRmbGwxYnQ1bzc5a3N4NTlodmpzY2tiYjg3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7524LjA2o6AXyXXG/giphy.gif"
 ]

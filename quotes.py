@@ -22,6 +22,17 @@ QUOTES = [
     "„Ich sehe ihn als einen James Dean von Bayern.“",
     "„Das Kreuz gehört zu Bayern.“",
     "„Wien ist näher bei München als Berlin.“",
-    "Natürlich gilt: Niemand ist gezwungen, Fleisch zu essen. Jeder darf essen, was er will. Aber für mich persönlich gilt: Ein gegrilltes Stück Schweinefleisch aus bayerischer Herkunft ist einfach unschlagbar."
+    "„Natürlich gilt: Niemand ist gezwungen, Fleisch zu essen. Jeder darf essen, was er will. Aber für mich persönlich gilt: Ein gegrilltes Stück Schweinefleisch aus bayerischer Herkunft ist einfach unschlagbar.“",
+    "„Ich esse auch gern Salat und gesunde Sachen. Die meisten Likes gibt es aber dann doch bei sehr bodenständigem bayerischen Essen.“",
+    "„Als Kind waren meine beiden absoluten Top-Essen Nürnberger Rostbratwürste oder ein Hendl. Die gab es immer als Belohnung. Für Nürnberger Rostbratwürste könnte ich sterben. Und ein Hendl mit Pommes und Ketchup, das war als Kind schon etwas Besonderes.“",
+    "„Es ist übrigens gut, dass Friedrich Merz jetzt Kanzler ist, denn bei Olaf Scholz war das Essen im Kanzleramt nicht immer nach meinem Geschmack. Oft gab es zum Beispiel eine sehr dünne und fade Gemüsesuppe. Bei Angela Merkel gab es immer tolles und auch deftiges Essen: dicke Fleischpflanzerl, Kotelett, Wiener Würstchen...“",
+    "„Bei einem Besuch bei ihm in Baden-Württemberg gab's das größte Stück Fleisch, das je ein Grüner vor meinen Augen gegessen hat.“",
+    "„Tofu schmeckt einfach furchtbar, im Grunde nach gar nichts.“",
+    "„Bei Eis kann ich schlecht Nein sagen. Spaghettieis ist eine grandiose deutsche Erfindung. Ich esse auch oft Pistazie, Malaga oder Erdbeere. Das Eissandwich ist auch super. Da esse ich immer erst Schoko, weil das am wenigsten schmeckt, dann Vanille, dann Erdbeere.“",
+    "„Ich versuche auf jeden Fall, auf mein Gewicht zu achten, und mache deshalb auch viel Sport, sooft es mein Kalender zulässt.“",
+    "„Eine Kindheit ohne Gelbwurst oder ohne Leberkäse, da fehlt doch was...“",
+    "„Die EU gefährdet jeden Tag meine Gesundheit, indem sie die Plastikdeckel an den Flaschen befestigt hat. Jeden Tag hängt mir der Plastikdeckel im Auge, wenn ich meine Cola light trinke.“",
+    "„Das Kreuz gehört zu Bayern.“"
+    
 
 ]
